@@ -1,5 +1,3 @@
-Here is a clean, professional, and well-structured README.md for your GitHub repository. It clearly explains what your script does, how to set it up, and how to use it.
-
 Voice Assistant Bot 🤖🔊
 A lightweight, local Python-based conversational AI assistant. This bot interacts with users via text input and responds using text-to-speech (TTS) capabilities. It can greet you based on the time of day, answer basic conversational questions, tell the current time, and evaluate mathematical expressions on the fly.
 
